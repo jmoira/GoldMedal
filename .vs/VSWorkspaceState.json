@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\goldmedal",
+    "\\goldmedal\\.mvn\\wrapper",
+    "\\goldmedal\\src",
+    "\\goldmedal\\src\\main",
+    "\\goldmedal\\src\\main\\resources",
+    "\\goldmedal\\src\\main\\resources\\static",
+    "\\goldmedal\\src\\main\\resources\\static\\css",
+    "\\goldmedal\\src\\main\\resources\\static\\img",
+    "\\goldmedal\\src\\main\\resources\\static\\utils"
+  ],
+  "SelectedNode": "\\goldmedal\\src\\main\\resources\\application.properties",
+  "PreviewInSolutionExplorer": false
+}
